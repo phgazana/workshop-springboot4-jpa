@@ -1,4 +1,4 @@
-# Course API
+# Workshop API
 
 API REST de e-commerce desenvolvida com Spring Boot, seguindo o padrão de arquitetura em camadas (Resource → Service → Repository).
 
